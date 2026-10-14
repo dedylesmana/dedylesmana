@@ -67,6 +67,8 @@ Spatial analysis of deforestation, forest fragmentation, and carbon stock using 
 
 Open to freelance projects and collaborations involving:
 
+**Available for freelance data analysis, geospatial analysis, remote sensing, statistical modeling, econometrics, and machine learning projects.**
+
 - Data analysis
 - Statistics and econometrics
 - GIS and spatial analysis
