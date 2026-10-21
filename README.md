@@ -1,202 +1,173 @@
-
 # M. Dedy Lesmana
 
-### Freelance Data Scientist & Data Analyst
+### Data Scientist & Data Analyst
 
-**Data Science · Statistics & Econometrics · Geospatial Analytics · Remote Sensing**
+**Statistics & Econometrics · SEM · Geospatial Analytics · Remote Sensing · Machine Learning**
 
-I work across data science, statistical analysis, econometrics, geospatial analytics, environmental monitoring, and machine learning. My work combines quantitative methods, spatial data analysis, and computational workflows to support research, analytical problem-solving, and evidence-based decision-making.
+I work across statistical analysis, econometrics, structural equation modeling, geospatial analytics, remote sensing, machine learning, and qualitative data analysis.
+
+I help clients and research collaborators organize data, select appropriate analytical methods, interpret results, and communicate findings clearly. My approach emphasizes transparent methods, appropriate model evaluation, and responsible interpretation.
+
+**Available for remote projects, individual tutoring, training, and research collaboration with clients in Indonesia and internationally.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-dedylesmana-181717?style=flat-square&logo=github)](https://github.com/dedylesmana)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Statistics](https://img.shields.io/badge/Statistics-0B7285?style=flat-square)](https://en.wikipedia.org/wiki/Statistics)
-[![GIS](https://img.shields.io/badge/GIS-589632?style=flat-square)](https://qgis.org/)
-[![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-0B7285?style=flat-square)](https://earthengine.google.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-0B7285?style=flat-square)
+![Geospatial Analytics](https://img.shields.io/badge/Geospatial_Analytics-589632?style=flat-square)
 
 ---
 
 ## Core Competencies
 
-### 1. Statistics & Econometrics
+### Statistics & Econometrics
 
 - Descriptive and inferential statistics
-- Statistical modeling and hypothesis testing
-- Regression analysis and econometric modeling
-- Quantitative research methods and data interpretation
-- Time-series and applied econometric analysis
+- Hypothesis testing and regression analysis
+- Econometric modeling and time-series analysis
+- Model diagnostics and assessment of assumptions
+- Interpretation and reporting of quantitative findings
 
-**Tools:** Stata · EViews
+**Tools:** Stata · EViews · Python · R
 
-### 2. Structural Equation Modeling (SEM)
+### Structural Equation Modeling
 
-- Structural Equation Modeling (SEM)
+- Covariance-based Structural Equation Modeling (CB-SEM)
 - Partial Least Squares Structural Equation Modeling (PLS-SEM)
-- Measurement model and structural model assessment
-- Reliability, validity, and model evaluation
-- Interpretation and reporting of empirical results
+- Measurement and structural model assessment
+- Reliability and validity assessment
+- Model evaluation and interpretation of results
 
-**Tools:** SmartPLS · IBM SPSS Amos (AMOS) · LISREL
+**Tools:** SmartPLS · IBM SPSS Amos · LISREL
 
-### 3. Data Science & Machine Learning
+### Data Science & Machine Learning
 
 - Data cleaning, preprocessing, and transformation
-- Exploratory data analysis (EDA)
-- Data visualization and analytical reporting
-- Machine learning and predictive modeling
+- Exploratory data analysis and visualization
+- Predictive modeling and image classification
 - Model evaluation and interpretation
-- Python- and R-based analytical workflows
+- Analytical workflows using Python and R
 
 **Tools:** Python · R · Jupyter Notebook · TensorFlow · Keras
 
-### 4. Geospatial Science & Remote Sensing
+### Geospatial Analytics & Remote Sensing
 
-- Geographic Information Systems (GIS) and spatial analysis
+- Geographic Information Systems and spatial analysis
 - Satellite remote sensing and Earth observation
-- Google Earth Engine and QGIS
-- LiDAR data processing and forest structure analysis
-- Environmental monitoring and land-use change assessment
-- Geospatial visualization and cartographic communication
+- Environmental monitoring and land-use change analysis
+- LiDAR processing and forest structure assessment
+- Biomass and carbon analysis
+- Geospatial visualization and map preparation
 
-**Tools:** Google Earth Engine · QGIS · Python · R · Copernicus Sentinel
+**Tools:** Google Earth Engine · QGIS · Python · R
 
-### 5. Qualitative Research
+### Qualitative Data Analysis
 
-- Qualitative data organization and interpretation
 - Interview and document analysis
-- Coding, categorization, and thematic analysis
-- Research documentation and synthesis of findings
+- Qualitative data organization and coding
+- Categorization and thematic analysis
+- Interpretation and synthesis of findings
+- Documentation of analytical decisions
 
 **Tool:** NVivo
 
 ---
 
-## Featured Projects
+## Selected Public Projects
 
-### 1. Mount Ruang Eruption Analysis
+The projects below showcase selected work in remote sensing, environmental monitoring, geospatial analysis, and machine learning. My broader analytical services also include statistics, econometrics, SEM, and qualitative research.
 
-A geospatial case study of the April 2024 Mount Ruang eruption in Indonesia, integrating satellite observations, CNN-based image classification, meteorological analysis, atmospheric dispersion simulations, and GIS visualization.
+| Project | Overview | Links |
+| --- | --- | --- |
+| **Mount Ruang Eruption Analysis** | Satellite observations, CNN classification, meteorological analysis, and atmospheric dispersion modeling of the April 2024 eruption. | [Repository](https://github.com/dedylesmana/mount-ruang-eruption-analysis) |
+| **West Kalimantan PM2.5 & Wildfire Air Quality** | Spatial estimation of PM2.5 and analysis of wildfire-related air quality, with an interactive dashboard. | [Repository](https://github.com/dedylesmana/wildfire-air-quality-west-kalimantan) · [Dashboard](https://west-kalimantan-pm25.streamlit.app/) |
+| **Pulang Pisau Wildfire & Atmospheric Pollution** | Satellite-based analysis of wildfire activity and atmospheric pollution in Central Kalimantan, Indonesia. | [Repository](https://github.com/dedylesmana/wildfire-air-quality-pulang-pisau-central-kalimantan) |
+| **LiDAR Tree Detection & Above-Ground Biomass** | Tree detection, crown segmentation, forest structure analysis, and above-ground biomass estimation. | [Repository](https://github.com/dedylesmana/lidar-tree-detection-agb-r) |
+| **Rice Leaf Disease Classification Using CNN** | Application of convolutional neural networks to rice leaf disease classification. | [Repository](https://github.com/dedylesmana/Mini_Project_CNN_Riceleaf) |
+| **Berau Deforestation & Carbon Analysis** | Spatial analysis of deforestation, forest fragmentation, and carbon stock using R. | [Repository](https://github.com/dedylesmana/berau-deforestation-fragmentation-carbon-analysis) |
 
-**Technologies:** Python · Google Earth Engine · Sentinel-2 · Sentinel-3/SLSTR · Sentinel-5P/TROPOMI · ERA5 · CNN · NOAA HYSPLIT · QGIS
+---
 
-[![View Repository](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/dedylesmana/mount-ruang-eruption-analysis)
+## Services & Collaboration
 
-### 2. West Kalimantan PM2.5 Estimation & Wildfire Air Quality
+### Data Analysis & Reporting
 
-A remote sensing-based geospatial study of PM2.5 estimation and wildfire-related air quality in West Kalimantan, Indonesia.
+- Data preparation, cleaning, and visualization
+- Statistical analysis and econometric modeling
+- SEM and PLS-SEM analysis
+- Qualitative coding and thematic analysis
+- GIS, remote sensing, and environmental data analysis
+- Machine learning model development and evaluation
+- Interpretation of results and preparation of analytical reports
 
-**Technologies:** NASA FIRMS · Sentinel-5P · ERA5-Land · WorldPop · Google Earth Engine · Python · Random Forest
+### Tutoring & Training
 
-[![View Repository](https://img.shields.io/badge/Explore-Repository-181717?style=for-the-badge&logo=github)](https://github.com/dedylesmana/wildfire-air-quality-west-kalimantan)
+- Individual and small-group instruction
+- Practical guidance on analytical software
+- Statistical concepts and method selection
+- Interpretation of software outputs
+- Guided analytical exercises and project-based learning
 
-[![Live Dashboard](https://img.shields.io/badge/View-Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://west-kalimantan-pm25.streamlit.app/)
+### Research Consultation & Manuscript Support
 
-### 3. Pulang Pisau Wildfire & Atmospheric Pollution
+- Research design and analytical planning
+- Review of methods and model specifications
+- Presentation of results through tables, figures, and maps
+- Editing and clarification of methods and results sections
+- Journal formatting and submission preparation
+- Support in preparing responses to reviewer comments
 
-Remote sensing and atmospheric pollution analysis related to wildfire activity in Central Kalimantan, Indonesia.
-
-**Focus:** Wildfire monitoring, satellite observations, and environmental analysis.
-
-[View Repository](https://github.com/dedylesmana/wildfire-air-quality-pulang-pisau-central-kalimantan)
-
-### 4. LiDAR Tree Detection & Above-Ground Biomass
-
-A LiDAR-based project focused on tree detection, crown segmentation, forest structure metrics, and above-ground biomass estimation.
-
-**Focus:** LiDAR processing, forest structure analysis, and geospatial methods.
-
-[View Repository](https://github.com/dedylesmana/lidar-tree-detection-agb-r)
-
-### 5. Rice Leaf Disease Classification Using CNN
-
-A deep learning project applying convolutional neural networks (CNNs) to rice leaf disease classification.
-
-**Technologies:** Python · TensorFlow · Keras · CNN
-
-[View Repository](https://github.com/dedylesmana/Mini_Project_CNN_Riceleaf)
-
-### 6. Berau Deforestation & Carbon Analysis
-
-A spatial analysis project examining deforestation, forest fragmentation, and carbon stock in Berau Regency, Indonesia.
-
-**Focus:** Forest change analysis, spatial metrics, and carbon assessment using R.
-
-[View Repository](https://github.com/dedylesmana/berau-deforestation-fragmentation-carbon-analysis)
+Research and manuscript support is collaborative, with authors retaining responsibility for their work. Publication decisions remain with journal editors and reviewers.
 
 ---
 
 ## Tools & Technologies
 
-**Programming & Data Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Statistics, Econometrics & SEM**
-
-![Stata](https://img.shields.io/badge/Stata-1A5F91?style=flat-square)
-![EViews](https://img.shields.io/badge/EViews-34495E?style=flat-square)
-![SmartPLS](https://img.shields.io/badge/SmartPLS-0B7285?style=flat-square)
-![AMOS](https://img.shields.io/badge/AMOS-495057?style=flat-square)
-![LISREL](https://img.shields.io/badge/LISREL-2D6A4F?style=flat-square)
-
-**Geospatial & Earth Observation**
-
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square)
-![Copernicus Sentinel](https://img.shields.io/badge/Copernicus_Sentinel-003399?style=flat-square)
-
-**Machine Learning & Qualitative Research**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NVivo](https://img.shields.io/badge/NVivo-34495E?style=flat-square)
+| Area | Tools |
+| --- | --- |
+| Programming & Data Analysis | Python, R, JavaScript, Jupyter Notebook |
+| Statistics & Econometrics | Stata, EViews |
+| Structural Equation Modeling | SmartPLS, IBM SPSS Amos, LISREL |
+| GIS & Remote Sensing | Google Earth Engine, QGIS |
+| Machine Learning | TensorFlow, Keras |
+| Qualitative Analysis | NVivo |
+| Atmospheric Dispersion | NOAA HYSPLIT |
 
 ---
 
-## GitHub Statistics
+## Working Approach
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dedylesmana&show_icons=true&hide_border=true&theme=transparent&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dedylesmana&layout=compact&hide_border=true&theme=transparent)
+- Clarify the project objective before selecting analytical methods.
+- Assess data quality and relevant model assumptions.
+- Explain methodological choices and analytical limitations.
+- Document workflows to support review and reproducibility where applicable.
+- Present findings clearly and draw conclusions supported by the analysis.
+- Respect client confidentiality and agreed permissions for sharing materials.
 
 ---
 
 ## Research & Professional Interests
 
-- Statistical analysis, econometrics, and quantitative research
-- Structural Equation Modeling (SEM) and PLS-SEM
-- Geospatial data science and Earth observation
-- Environmental monitoring and air quality analysis
-- Machine learning for environmental applications
-- Remote sensing and land-use change
-- Forest structure, biomass, and carbon assessment
+- Applied statistics and econometrics
+- Structural equation modeling
 - Quantitative and qualitative research methods
+- Geospatial data science and Earth observation
+- Environmental monitoring and air quality
+- Machine learning for environmental applications
+- Forest structure, biomass, and carbon assessment
 
 ---
 
-## Collaboration & Freelance Services
+## Contact & Project Inquiries
 
-Open to freelance projects, research collaborations, and analytical assignments involving:
+I welcome inquiries about data analysis, research consultation, tutoring, training, and collaboration from Indonesia and internationally.
 
-- Statistical analysis, data cleaning, and visualization
-- Regression analysis and econometric modeling
-- SEM/PLS-SEM analysis and quantitative research support
-- GIS and geospatial data processing
-- Satellite remote sensing and environmental analysis
-- Machine learning workflows and model evaluation
-- LiDAR analysis and forest assessment
-- Qualitative data analysis and research documentation
+For an initial discussion, please include your project objective, data type, required support, and preferred timeline.
 
-I value transparent analytical methods, appropriate model evaluation, reproducible workflows, and responsible interpretation of results.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namaemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dedylesmana)
 
 ---
 
-## Contact
-
-For freelance inquiries, research collaboration, or professional opportunities, please visit my [GitHub profile](https://github.com/dedylesmana).
-
-**M. Dedy Lesmana**
-
-*Data Science · Statistics & Econometrics · Geospatial Analytics · Environmental Research*
+**M. Dedy Lesmana**  
+*Data Analysis · Research Consultation · Tutoring & Training*
